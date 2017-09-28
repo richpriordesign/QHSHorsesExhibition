@@ -44,7 +44,6 @@ Rich Prior
 	<preference name="android-minSdkVersion" value="14" />
 
 
-	<gap:plugin name="org.apache.cordova.dialogs"  />
 	<gap:plugin name="org.apache.cordova.device"  />
 
 	<gap:plugin name="org.apache.cordova.console"  />
