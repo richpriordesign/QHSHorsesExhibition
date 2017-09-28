@@ -50,7 +50,8 @@ Rich Prior
 	<plugin name="cordova-plugin-console" />
 	<plugin name="cordova-plugin-inappbrowser" />
 	<preference name="android-build-tool" value="gradle" />
-    <plugin name="https://github.com/katzer/cordova-plugin-hidden-statusbar-overlay.git"/>
+	<plugin name="cordova-plugin-statusbar" spec="2.2.2" />
+    
     <plugin name=" https://github.com/wisemendevp/iosdevice.git" />
     <plugin name="https://github.com/Paldom/UniqueDeviceID.git"/> 
 
