@@ -44,8 +44,6 @@ Rich Prior
 	<preference name="android-minSdkVersion" value="14" />
 
 
-	<gap:plugin name="org.apache.cordova.console"  />
-	<gap:plugin name="org.apache.cordova.inappbrowser"  />
 	<plugin name="de.appplant.cordova.plugin.hidden-statusbar-overlay" spec="1.2.0" source="pgb" />
 
 	<icon src="res/icon/ios/icon-57.png" gap:platform="ios" width="57" height="57" />
