@@ -1,0 +1,94 @@
+[
+  {
+  	"name":"Count Fleet",
+    "imagename":"countfleet",
+  	"bio":"Count Fleet was aptly named—his was Reigh Count and his mother was Quickly. He was royal and he was fast. As a two-year-old Count Fleet set the track record in the 1942 Champagne Stakes at Belmont Park and the track record in the 1942 Futurity at Pimlico. As a three-year-old in 1943 Count Fleet won all his six races including the Triple Crown—Kentucky Derby, Preakness and Belmont Stakes. His victories in the Triple Crown races were by ever increasing margins—3 lengths in the Kentucky Derby, 8 lengths in the Preakness and 25 lengths in the Belmont Stakes. In the latter race he injured and ankle and a knee and never raced again. <br />Thirty years later Secretariat won the Triple Crown and by many was immediately declared the greatest race horse of all time.  His margins of victory in the three races were 2 lengths, 4 ½ lengths and 31 lengths. In the last race the horse (Sham) who finished second to him in the Kentucky Derby and the Preakness broke his leg coming out of the gate. Like Count Fleet he never ran again.  On February 26, 10 weeks before the Kentucky Derby, Secretariat was sold to a syndicate of buyers—the Sales contract stipulated that Secretariat must be retired to Stud before December 1 and he was! An injury stopped Count Fleet—money stopped Secretariat.",
+    "races":"31",
+    "first":"25",
+    "second":"4",
+    "third":"1",
+    "earnings":"$1,462,014"
+    
+  },
+  {
+  	"name":"Seattle Slew",
+  	"imagename":"seattle",
+  	"bio":"Seattle Slew raced for three years—1976 through 1978. In 1976 he was voted champion 2 year old colt, in 1977—champion 3 year old colt and Horse of the Year, in 1978—champion older horse. In 1977 he won the Triple Crown (Kentucky Derby, Preakness Stakes and Belmont Stakes). <br /> Fiercely competitive, Seattle Slew frightened his opponents. The Hall of Fame jockey, Angel Cordero, Jr. recalls the look Slew gave him half way through the Kentucky Derby—&ldquo;he turned his head toward me and just stared&rdquo; and trainer Bill Turner recalls that &ldquo;it scared me, I worried Slew might grab the rider by the leg and pull him off his horse, he was an absolute dominant horse and ruthless to run with, others were horrified of him.&rdquo;",
+    "races":"17",
+    "first":"14",
+    "second":"2",
+    "third":"0",
+    "earnings":"$1,208,726"
+  },
+  {
+  	"name":"Secretariat",
+    "imagename":"secretariat",
+    "bio":"Secretariat raced for two years—1972 and 1973. In 1972 he was voted champion 2 year-old colt and Horse of the Year, in 1973—champion 3 year-old colt and Horse of the Year. As a 3 year-old he won the Triple Crown—Kentucky Derby, Preakness Stakes and Belmont Stakes. In each of these races Secretariat set new record times. <br />Following three of his six losses Secretariat won his next race in record time. His exercise riders, Charlie Davis and Eddie Sweat, insist that Secretariat was apologetic for losing and sought to make amends. His jockey, Ron Turcotte provided some insight into Secretariat’s &ldquo;personality&rdquo; when he observed: He was a big ham, whenever he heard a camera clicking he would stop, and I would leave him stopped. Turcotte added: He was a little proud of himself. He carried his head high. I don’t know how horses think, but I would believe that he realized he was up there. That’s for the Horse Whisperer to figure out. But he knew he was something special.",
+    "races":"21",
+    "first":"16",
+    "second":"3",
+    "third":"0",
+    "earnings":"$1,316,808"
+  },
+  {
+  	"name":"Kelso",
+    "imagename":"kelso",
+    "bio":"Kelso raced for eight years—1959 through 1966. As a 2 year-old in 1959 Kelso was gelded and won only 1 race out of 3 starts. As a 3 year-old in 1960 he was brilliant and was elected 3 year-old champion and horse of the year.  As a 4 year-old in 1961, as a 5 year-old in 1962, as a 6 year-old in 1963 and as a 7 year-old in 1964 Kelso was named handicap horse of the year and horse of the year. Handicap horse racing entailed adding weight to the better older horses to make races more competitive (this is rarely done today). In spite of always carrying more weight than his opponents Kelso usually won. In 1965 Kelso won 3 of 6 races as an 8 year-old and in 1966 as a 9 year-old he ran one race, lost it and was retired.  Upon his retirement Blood-Horse magazine observed: <em>Kelso demonstrated the durability of class. No horse in our time was so good, so long. His was mature greatness.</em>",
+    "races":"63",
+    "first":"39",
+    "second":"12",
+    "third":"2",
+    "earnings":"$1,977,896"
+  },
+  {
+    "name":"Ruffian",
+    "imagename":"ruffian",
+    "bio":"Buckpasser raced for three years—1965 through 1967. In 1965 he was voted  champion 2 year old colt, in 1966—champion 3 year old colt, champion older horse and Horse of the Year, in 1967—champion older horse. <br/> Extremely intelligent and gregarious, Buckpasser loved to play with his competitors—if he attained the lead, he loafed and allowed them to catch up—then he would pull away at the last moment just before reaching the finish line. Consequently his regular jockey, Braulio Baeza, would time Buckpasser’s bursts of speed in the stretch to coincide with the finish line—thus allowing his horse to enjoy his playful ways but still win the race. With a few exceptions Buckpasser never won by more than ¾ length. His idiosyncratic behavior contributed to Buckpasser’s 6 losses. For him racing was literally a &ldquo;sport&rdquo; not a &ldquo;race&rdquo;",
+    "races":"31",
+    "first":"25",
+    "second":"4",
+    "third":"1",
+    "earnings":"$1,462,014"
+  },
+  {
+  	"name":"Buckpasser",
+    "imagename":"buckpasser",
+    "bio":"Buckpasser raced for three years—1965 through 1967. In 1965 he was voted  champion 2 year old colt, in 1966—champion 3 year old colt, champion older horse and Horse of the Year, in 1967—champion older horse. <br/> Extremely intelligent and gregarious, Buckpasser loved to play with his competitors—if he attained the lead, he loafed and allowed them to catch up—then he would pull away at the last moment just before reaching the finish line. Consequently his regular jockey, Braulio Baeza, would time Buckpasser’s bursts of speed in the stretch to coincide with the finish line—thus allowing his horse to enjoy his playful ways but still win the race. With a few exceptions Buckpasser never won by more than ¾ length. His idiosyncratic behavior contributed to Buckpasser’s 6 losses. For him racing was literally a &ldquo;sport&rdquo; not a &ldquo;race&rdquo;",
+    "races":"31",
+    "first":"25",
+    "second":"4",
+    "third":"1",
+    "earnings":"$1,462,014"
+  },
+  {
+    "name":"Gallant Fox",
+    "imagename":"gallantfox",
+    "bio":"Gallant Fox raced for two years—1929 and 1930. After a so-so year as a two-year-old (7 races, 2 wins, 2 seconds and 2 thirds) he blossomed as a three-year-old—winning 9 out of 10 races accompanied by a second place finish (the famous upset by Jim Dandy in the Travers Stakes at Saratoga), including the Triple Crown. All eleven of Gallant Fox’s victories were in Stakes races. <br />Bryan Field, a man credited by many as coining the phrase Triple Crown (Kentucky Derby, Preakness Stakes and Belmont Stakes) after Gallant Fox won the Belmont Stakes and the Turf Editor of the New York Times said of the &ldquo;Fox&rdquo;: &ldquo;Gallant Fox is a horse of individuality and magnetism, and thus far has behaved in the opposite manner of Man O’ War, who was a devil to break and a big, raw colt to handle and train as a two-year-old. He gives the impression of unusual grace and distinction and his symmetry and harmony have attracted thousands of admirers, as did Man O’War’s effervescent temperament.&rdquo;",
+    "races":"17",
+    "first":"11",
+    "second":"3",
+    "third":"2",
+    "earnings":"$328,165"
+  },
+  {
+    "name":"Tom Fool",
+    "imagename":"tomfoolcarter",
+    "bio":"Tom Fool raced for three years—1951 through 1953.  He was the champion 2-year-old in 1951 and Horse of the Year, in 1953 (winning all of his ten races). <br/> Noted poet Marianne Moore—winner of the Pulitzer Prize in Poetry and National Book Award—wrote a poem entitled &ldquo;Tom Fool at Jamaica.&rdquo; This extract expresses in the precise use of poetic language Tom Fool’s appearance: <br /> <em>Tom Fool is a &ldquo;handy horse,&rdquo; with a chiseled foot. You’ve the beat of a dancer to a measure—the harmonious rush of a porpoise at the prow where the racers all win easily—like centaurs’ legs in tune, as when kettledrums compete; nose rigid and suede nostrils spread, a light left hand on the rein, till well—this is a rhapsody.</em>",
+    "races":"30",
+    "first":"21",
+    "second":"7",
+    "third":"1",
+    "earnings":"$570,165"
+  }
+  ,
+  {
+    "name":"Omaha",
+    "imagename":"omaha",
+    "bio":"Omaha raced for three years—1934 through 1936. His father, Gallant Fox, won the Triple Crown in 1930—Omaha repeated this feat in 1935. As a 2-year old, Omaha won only 1 of his 9 races; however, he won 6 of 9 in 1935 and 2 of 4 in 1936. <br />John Hervey of the Daily Racing Form writing under the name &ldquo;Salvator&rdquo; said of Omaha: <br/> &ldquo;In action, he was a glorious sight; few Thoroughbreds have exhibited such a magnificent, sweeping, space-annihilating stride, or carried it with such strength and precision. His place is among the Titals of the American Turf.&rdquo; <br /> The legendary Sunny Jim Fitzsimmons trained Omaha. He devoted most of his time developing Omaha—ignoring another horse by the name of Seabiscuit whom he deemed &ldquo;lazy.&rdquo;",
+    "races":"22",
+    "first":"9",
+    "second":"7",
+    "third":"2",
+    "earnings":"$154,755"
+  }
+]
