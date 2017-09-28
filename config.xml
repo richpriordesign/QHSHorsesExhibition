@@ -21,8 +21,8 @@ Rich Prior
 
 
 	<preference name="orientation" value="portrait" />
-	<preference name="fullscreen" value="true" />
-
+	<preference name="Fullscreen" value="true" />
+	<preference name="AndroidLaunchMode" value="singleInstance" />
 	<preference name="webviewbounce" value="false" />
 	<preference name="DisallowOverscroll" value="true"/>
 	<preference name="disallowOverscroll" value="true" />
@@ -36,6 +36,8 @@ Rich Prior
 	<preference name="BackgroundColor" value="0xff000000 "/>
 
 	<preference name="KeepRunning" value="false"/>
+
+	
 
 
 	<preference name="android-minSdkVersion" value="14" />
