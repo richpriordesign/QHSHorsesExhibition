@@ -15,7 +15,8 @@ Rich Prior
 	<gap:platform name="ios" />
 	<gap:platform name="android" />
 
-	<preference name="phonegap-version" value="3.3.0" />
+	  <preference name="phonegap-version" value="cli-6.5.0" />
+
 
 
 
