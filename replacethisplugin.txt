@@ -1,0 +1,1 @@
+<plugin name="https://github.com/katzer/cordova-plugin-hidden-statusbar-overlay.git"/>
