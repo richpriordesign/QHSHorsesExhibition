@@ -4,8 +4,16 @@ body{
 	height:100%;
 	color:#FFF;
 	font-size:18px;
-	line-height:24px;
+	line-height:26px;
 	font-family:"Helvetica Neue", "Garamond", "Arial", sans-serif;
+
+}
+
+.disable-select{
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+  user-select: none;
 }
 
 div.main.ng-scope{
@@ -69,6 +77,10 @@ a .glyphicon:active:focus{
 
 /* LIST PAGE */
 
+.list-bkg{
+	overflow:hidden;
+}
+
 .gallery-bkg{
 	background-image:url(../images/bkg/gallery-bkg.jpg);
 	background-repeat:none;
@@ -102,6 +114,15 @@ a .glyphicon:active:focus{
 
 
 /* DETAIL PAGE */
+
+.detail-bkg{
+	height:100%;
+	padding-bottom:75px;
+}
+
+.detail-headline{
+	margin-top:30px;
+}
 
 .horse-bkg{
 	background-image:url(../images/bkg/horse-bkg.jpg);
