@@ -3,7 +3,7 @@ body{
 	width:100%;
 	height:100%;
 	color:#FFF;
-	font-size:18px;
+	font-size:20px;
 	line-height:26px;
 	font-family:"Helvetica Neue", "Garamond", "Arial", sans-serif;
 
@@ -78,7 +78,7 @@ a .glyphicon:active:focus{
 /* LIST PAGE */
 
 .list-bkg{
-	overflow:hidden;
+	overflow:hidden !important;
 }
 
 .gallery-bkg{
@@ -140,8 +140,8 @@ h1{
 }
 
 p{
-	font-size:18px;
-	line-height:24px;
+	font-size:20px;
+	line-height:26px;
 	font-weight:normal;
 }
 

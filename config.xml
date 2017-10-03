@@ -18,8 +18,6 @@ Rich Prior
 	  <preference name="phonegap-version" value="cli-6.5.0" />
 
 
-
-
 	<preference name="orientation" value="portrait" />
 	<preference name="Fullscreen" value="true" />
 	<preference name="AndroidLaunchMode" value="singleInstance" />
@@ -54,6 +52,17 @@ Rich Prior
     
     <plugin name=" https://github.com/wisemendevp/iosdevice.git" />
     <plugin name="https://github.com/Paldom/UniqueDeviceID.git"/> 
+
+    <gap:plugin name="com.phonegap.plugin.statusbar" />
+
+    <gap:plugin name="com.phonegap.plugin.statusbar" />
+	<gap:config-file platform="ios" parent="UIStatusBarHidden">
+	    <true/>
+	</gap:config-file>
+	<gap:config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance">
+	    <false/>
+	</gap:config-file>
+	<preference name="StatusBarOverlaysWebView" value="true" />
 
 	<icon src="res/icon/ios/icon-57.png" gap:platform="ios" width="57" height="57" />
 	<icon src="res/icon/ios/icon-72.png" gap:platform="ios" width="72" height="72" />
