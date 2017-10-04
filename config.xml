@@ -35,8 +35,6 @@ Rich Prior
 
 	<preference name="KeepRunning" value="false"/>
 
-	
-
 
 	<preference name="android-minSdkVersion" value="14" />
 
@@ -52,22 +50,6 @@ Rich Prior
     
     <plugin name=" https://github.com/wisemendevp/iosdevice.git" />
     <plugin name="https://github.com/Paldom/UniqueDeviceID.git"/> 
-
-    <gap:plugin name="com.phonegap.plugin.statusbar" />
-
-    <gap:plugin name="com.phonegap.plugin.statusbar" />
-	<gap:config-file platform="ios" parent="UIStatusBarHidden">
-    <true/>
-</gap:config-file>
-
-<gap:config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance">
-    <false/>
-</gap:config-file>
-	<preference name="StatusBarOverlaysWebView" value="true" />
-	<feature name="StatusBar">
-            <param name="ios-package" value="CDVStatusBar" onload="true" />
-        </feature>
-
 
 	<icon src="res/icon/ios/icon-57.png" gap:platform="ios" width="57" height="57" />
 	<icon src="res/icon/ios/icon-72.png" gap:platform="ios" width="72" height="72" />
